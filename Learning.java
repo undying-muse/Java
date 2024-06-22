@@ -73,4 +73,15 @@ System.out.print(2+3);
 //It was a little disorienting because I was used to the hash symbol instead of the
 //two slashes.
 
-System.out.print(2+3); //Note, they work in the middle of llines!!
+System.out.print(2+3); //Note, they work in the middle of lines!!
+
+/* learned the multiple line comment
+thing. it works with these slash-star, star-slash order. */ 
+
+/*The types of data are integer, string, character, float and boolean.
+It's different from python in that it stores single lettered strings
+as character instead of string. huh. well It could stil be like the case with numbers (like how we can store them as strings too in python)*/
+
+// Also characters are stored in between 2 single quotes.
+
+
